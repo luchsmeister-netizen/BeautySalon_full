@@ -35,8 +35,8 @@
 
 ### Мобильное приложение
 <p align="left">
-  <img src="./screenshots/auth.png />
-  <img src="./screenshots/appointment.png />
+  <img src="./screenshots/auth.png" />
+  <img src="./screenshots/appointment.png" />
 </p>
 
 ---
