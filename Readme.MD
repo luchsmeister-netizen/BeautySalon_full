@@ -34,6 +34,9 @@
 ![Интерфейс основной базы](./screenshots/main_dt.png)
 
 ### Мобильное приложение
+![Интерфейс мобильного приложения](./screenshots/auth.png)
+![Интерфейс мобильного приложения](./screenshots/appointment.png)
+
 <p align="left">
   <img src="./screenshots/auth.png" />
   <img src="./screenshots/appointment.png" />
